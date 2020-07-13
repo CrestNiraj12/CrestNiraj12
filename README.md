@@ -27,7 +27,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 You can find and get touch with me on these accounts!
 
-|   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/CrestNiraj12)   |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/crestniraz/)   |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7185580/crestniraz)   |   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook logo" width="24">](https://www.facebook.com/crestniraz)
+|   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="28">](https://github.com/CrestNiraj12)   |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/crestniraz/)   |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7185580/crestniraz)   |   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook logo" width="24">](https://www.facebook.com/crestniraz)
 
 ---
 ⭐️ From [CrestNiraj12](https://github.com/CrestNiraj12)
