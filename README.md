@@ -24,7 +24,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)  |
 
 
-[![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)]
+![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)]
 
 
 
