@@ -6,7 +6,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 <br/>
 
-![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)]
+![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)
 
 ---
 
