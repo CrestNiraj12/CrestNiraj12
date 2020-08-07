@@ -3,7 +3,9 @@
 I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especially a learner. I love Anime, and am always learning new things, ready for discussions, help people if I can and work on new projects.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I learned everything online 🤯
-
+<br>
+![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)]
+---
 ### Programming Languages 🌐
 
 - Know/Using
@@ -19,13 +21,6 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 - Know/Using
 
 |    [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/)    |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)   |   Windows Terminal   |   many more...
-
-- Learning
-|   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)  |
-
-
-![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide-border=true)]
-
 
 
 ### Other Accounts 📫
