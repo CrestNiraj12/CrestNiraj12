@@ -8,7 +8,8 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 ![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
+[![Spotify](https://novatorem-taupe.vercel.app
+/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 ---
 
