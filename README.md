@@ -15,15 +15,15 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 258 Contributions in the Year 2020
+> 🏆 263 Contributions in the Year 2020
  > 
-> 📦 206.6 kB Used in Github's Storage 
+> 📦 206.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,8 +36,8 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 ```text
 🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
 🌆 Daytime    51 commits     █████████░░░░░░░░░░░░░░░░   38.06% 
-🌃 Evening    41 commits     ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌙 Night      39 commits     ███████░░░░░░░░░░░░░░░░░░   29.1%
+🌃 Evening    44 commits     ████████░░░░░░░░░░░░░░░░░   32.84% 
+🌙 Night      36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.87%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -48,8 +48,8 @@ Tuesday      23 commits     ████░░░░░░░░░░░░░�
 Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
 Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
 Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Saturday     35 commits     ██████░░░░░░░░░░░░░░░░░░░   26.12% 
-Sunday       38 commits     ███████░░░░░░░░░░░░░░░░░░   28.36%
+Saturday     32 commits     ██████░░░░░░░░░░░░░░░░░░░   23.88% 
+Sunday       41 commits     ███████░░░░░░░░░░░░░░░░░░   30.6%
 
 ```
 
