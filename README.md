@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Website](https://img.shields.io/website?color=%23141718&down_color=lightgrey&down_message=offline%20%F0%9F%91%8E&label=nirajshrestha.live&logoColor=red&up_color=green&up_message=online%20%F0%9F%91%8D&url=https%3A%2F%2Fnirajshrestha.live)](https://nirajshrestha.live/)
+[![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/in/crestniraj/)
 
 
 I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especially a learner. I love Anime, and am always learning new things, ready for discussions, help people if I can and work on new projects.
