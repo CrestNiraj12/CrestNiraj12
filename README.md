@@ -14,6 +14,9 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 ### Spotify Playing :headphones:
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### Programming Languages 🌐
