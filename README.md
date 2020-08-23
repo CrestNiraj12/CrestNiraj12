@@ -15,6 +15,75 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 254 Contributions in the Year 2020
+ > 
+> 📦 206.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+🌆 Daytime    48 commits     █████████░░░░░░░░░░░░░░░░   36.09% 
+🌃 Evening    41 commits     ███████░░░░░░░░░░░░░░░░░░   30.83% 
+🌙 Night      41 commits     ███████░░░░░░░░░░░░░░░░░░   30.83%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
+Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+Saturday     37 commits     ███████░░░░░░░░░░░░░░░░░░   27.82% 
+Sunday       35 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             █████████████████████░░░░   85.71% 
+JavaScript               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/CrestNiraj12/CrestNiraj12/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
