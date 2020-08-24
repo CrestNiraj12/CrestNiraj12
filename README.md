@@ -5,7 +5,7 @@
 
 I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especially a learner. I love Anime, and am always learning new things, ready for discussions, help people if I can and work on new projects.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I learned everything online 🤯
+- ⚡ Fun fact: Not a Number is a Number 🤯
 
 <br/>
 
