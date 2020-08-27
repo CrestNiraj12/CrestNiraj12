@@ -17,11 +17,11 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-585007%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 275 Contributions in the Year 2020
+> 🏆 282 Contributions in the Year 2020
  > 
 > 📦 206.9 kB Used in Github's Storage 
  > 
@@ -36,8 +36,8 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 ```text
 🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
 🌆 Daytime    51 commits     █████████░░░░░░░░░░░░░░░░   37.78% 
-🌃 Evening    52 commits     █████████░░░░░░░░░░░░░░░░   38.52% 
-🌙 Night      29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.48%
+🌃 Evening    55 commits     ██████████░░░░░░░░░░░░░░░   40.74% 
+🌙 Night      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -46,9 +46,9 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 Monday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
 Tuesday      27 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-Saturday     25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+Saturday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
 Sunday       42 commits     ███████░░░░░░░░░░░░░░░░░░   31.11%
 
 ```
