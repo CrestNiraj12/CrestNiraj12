@@ -87,7 +87,7 @@ No Activity Tracked This Week
 
 - Learning
 
- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter logo" width="24">](https://https://flutter.dev/)
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter logo" width="40">](https://https://flutter.dev/)
 
 ### Tools 🛠️
 
