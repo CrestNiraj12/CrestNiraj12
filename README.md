@@ -87,7 +87,7 @@ No Activity Tracked This Week
 
 - Learning
 
- [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo" width="24">](https://www.java.com/en/)
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter logo" width="24">](https://https://flutter.dev/)
 
 ### Tools 🛠️
 
