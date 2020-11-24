@@ -17,7 +17,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -60,23 +60,23 @@ Sunday       49 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Dart                     22 hrs 34 mins      ████████████████████████░   98.18% 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Dart                     22 hrs 34 mins      ███████████████████░░░░░░   78.42% 
+CSS                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+HTML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🔥 Editors: 
-VS Code                  23 hrs              █████████████████████████   100.0%
+VS Code                  28 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  23 hrs              █████████████████████████   100.0%
+Windows                  28 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://github.com/CrestNiraj12/CrestNiraj12/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
