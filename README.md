@@ -15,41 +15,41 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 8 Contributions in the Year 2021
+> 🏆 11 Contributions in the Year 2021
  > 
-> 📦 257.1 kB Used in Github's Storage 
+> 📦 257.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
-🌆 Daytime    75 commits     ██████████░░░░░░░░░░░░░░░   41.9% 
-🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   34.08% 
-🌙 Night      35 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55%
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+🌆 Daytime    76 commits     ██████████░░░░░░░░░░░░░░░   42.22% 
+🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   33.89% 
+🌙 Night      35 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.44%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-Tuesday      34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
-Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-Saturday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Sunday       53 commits     ███████░░░░░░░░░░░░░░░░░░   29.61%
+Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Tuesday      34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Saturday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
+Sunday       54 commits     ███████░░░░░░░░░░░░░░░░░░   30.0%
 
 ```
 
