@@ -21,13 +21,13 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 **🐱 My Github Data** 
 
-> 🏆 120 Contributions in the Year 2021
+> 🏆 123 Contributions in the Year 2021
  > 
-> 📦 345.1 kB Used in Github's Storage 
+> 📦 346.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
