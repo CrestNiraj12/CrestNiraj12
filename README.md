@@ -15,7 +15,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 > 🏆 369 Contributions in the Year 2021
  > 
-> 📦 408.1 kB Used in Github's Storage 
+> 📦 408.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,7 +79,7 @@ Windows                  28 hrs 22 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
 
 ---
