@@ -15,15 +15,15 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 399 Contributions in the Year 2021
+> 🏆 401 Contributions in the Year 2021
  > 
-> 📦 421.1 kB Used in Github's Storage 
+> 📦 421.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -34,22 +34,22 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
-🌆 Daytime    163 commits    ████████░░░░░░░░░░░░░░░░░   35.05% 
-🌃 Evening    190 commits    ██████████░░░░░░░░░░░░░░░   40.86% 
-🌙 Night      91 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57%
+🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+🌆 Daytime    165 commits    ████████░░░░░░░░░░░░░░░░░   35.33% 
+🌃 Evening    190 commits    ██████████░░░░░░░░░░░░░░░   40.69% 
+🌙 Night      91 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
-Tuesday      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Wednesday    82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Thursday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Saturday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   21.29%
+Monday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
+Tuesday      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Wednesday    82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+Thursday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
+Friday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Saturday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2%
 
 ```
 
@@ -79,7 +79,7 @@ Windows                  28 hrs 10 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
 
 ---
