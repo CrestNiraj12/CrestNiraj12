@@ -15,7 +15,7 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -60,14 +60,14 @@ Sunday       100 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Dart                     7 hrs 47 mins       █████████████████████████   99.62% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+Dart                     5 hrs 30 mins       ██████████████████████░░░   89.94% 
+PHP                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.06%
 
 🔥 Editors: 
-VS Code                  7 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.0%
+Windows                  6 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +76,7 @@ Windows                  7 hrs 49 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2021
+ Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
 
 ---
