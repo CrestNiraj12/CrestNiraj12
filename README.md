@@ -76,7 +76,7 @@ Windows                  6 hrs 7 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
 ---
