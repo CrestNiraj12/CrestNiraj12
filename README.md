@@ -9,11 +9,6 @@ I am Niraj Shrestha from Nepal and I am a Programmer, Web Developer and especial
 
 <br/>
 
-![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=CrestNiraj12&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
-
-### Spotify Playing :headphones:
-[![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
