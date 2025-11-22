@@ -115,9 +115,9 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 ### Tools
 
-| Neovim | Git | VS Code |
-|--------|-----|---------|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/640px-Neovim-mark-flat.svg.png" alt="neovim logo" width="28">](https://neovim.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="28">](https://code.visualstudio.com/) |
+| Neovim | Git |
+|--------|-----|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/640px-Neovim-mark-flat.svg.png" alt="neovim logo" width="28">](https://neovim.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/) |
 
 ### Other Accounts 📫
 
