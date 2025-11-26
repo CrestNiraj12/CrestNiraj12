@@ -15,15 +15,15 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C742%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C747%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 624.7 kB Used in GitHub's Storage 
+> 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,756 Contributions in the Year 2025
+> 🏆 1,760 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,20 +35,20 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 ```text
 🌞 Morning                226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.46 % 
-🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 Night                  1285 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
+🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 Tuesday                  1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Wednesday                1176 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Wednesday                1177 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 Thursday                 696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Friday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Friday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 Saturday                 1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
 
@@ -58,24 +58,24 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               21 hrs 18 mins      ██████████████████░░░░░░░   71.53 % 
-Lua                      5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Go                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               22 hrs 21 mins      ██████████████████░░░░░░░   73.30 % 
+Lua                      5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Go                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 46 mins      █████████████████████████   100.00 % 
+Neovim                   30 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            14 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.14 % 
-onlinenewsnepal          7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-nvim                     5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-mafia-game-backend       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-kitty                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+pd-182a-WJUFS            17 hrs 23 mins      ██████████████░░░░░░░░░░░   56.99 % 
+nvim                     5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+onlinenewsnepal          5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+mafia-game-backend       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+kitty                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      29 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 19:11:41 UTC
+ Last Updated on 26/11/2025 19:06:21 UTC
 <!--END_SECTION:waka-->
 
 ---
