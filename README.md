@@ -15,15 +15,15 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C773%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C780%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,763 Contributions in the Year 2025
+> 🏆 1,843 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,24 +58,24 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               33 hrs 42 mins      ████████████████████████░   97.71 % 
-Go                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               37 hrs 13 mins      █████████████████████████   98.17 % 
+Go                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   34 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   37 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            29 hrs 45 mins      ██████████████████████░░░   86.26 % 
-onlinenewsnepal          4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-mafia-game-backend       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-nvim                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-grounded-project         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+pd-182a-WJUFS            35 hrs 31 mins      ███████████████████████░░   93.67 % 
+onlinenewsnepal          2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+grounded-project         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+mafia-game-backend       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 19:26:56 UTC
+ Last Updated on 02/12/2025 19:14:19 UTC
 <!--END_SECTION:waka-->
 
 ---
