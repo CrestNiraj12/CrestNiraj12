@@ -58,24 +58,19 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               10 hrs 37 mins      █████████████████████████   98.15 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               8 hrs 11 mins       ████████████████████████░   97.66 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 49 mins      █████████████████████████   100.00 % 
+Neovim                   8 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            8 hrs 30 mins       ████████████████████░░░░░   78.61 % 
-onlinenewsnepal          2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-grounded-project         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-mafia-game-backend       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+pd-182a-WJUFS            8 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 19:05:08 UTC
+ Last Updated on 07/12/2025 19:07:07 UTC
 <!--END_SECTION:waka-->
 
 ---
