@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,848 Contributions in the Year 2025
+> 🏆 1,857 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 19:07:07 UTC
+ Last Updated on 08/12/2025 19:10:37 UTC
 <!--END_SECTION:waka-->
 
 ---
