@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C783%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C787%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,859 Contributions in the Year 2025
+> 🏆 1,871 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,18 +58,18 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               3 hrs 4 mins        ████████████████████████░   96.31 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               6 hrs 53 mins       █████████████████████████   99.04 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 12 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            3 hrs 12 mins       █████████████████████████   100.00 % 
+pd-182a-WJUFS            6 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -89,7 +89,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 19:11:36 UTC
+ Last Updated on 10/12/2025 19:14:16 UTC
 <!--END_SECTION:waka-->
 
 ---
