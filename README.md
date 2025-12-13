@@ -15,9 +15,9 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C793%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C799%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,18 +58,18 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               10 hrs 55 mins      █████████████████████████   98.01 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               17 hrs 31 mins      █████████████████████████   98.56 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 8 mins       █████████████████████████   100.00 % 
+Neovim                   17 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            11 hrs 8 mins       █████████████████████████   100.00 % 
+pd-182a-WJUFS            17 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -89,7 +89,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 19:12:17 UTC
+ Last Updated on 13/12/2025 19:05:29 UTC
 <!--END_SECTION:waka-->
 
 ---
