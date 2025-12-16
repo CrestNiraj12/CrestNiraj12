@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C799%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C806%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,934 Contributions in the Year 2025
+> 🏆 1,938 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,18 +58,19 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               17 hrs 31 mins      █████████████████████████   98.56 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               22 hrs 21 mins      █████████████████████████   98.07 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 47 mins      █████████████████████████   100.00 % 
+Neovim                   22 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            17 hrs 47 mins      █████████████████████████   100.00 % 
+pd-182a-WJUFS            22 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -89,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 19:15:30 UTC
+ Last Updated on 16/12/2025 19:16:31 UTC
 <!--END_SECTION:waka-->
 
 ---
