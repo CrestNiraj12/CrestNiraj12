@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,938 Contributions in the Year 2025
+> 🏆 1,943 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,17 +34,17 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
-🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌞 Morning                228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Tuesday                  1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Wednesday                1177 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Monday                   361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Tuesday                  1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                1179 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 Thursday                 696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Friday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 Saturday                 1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
@@ -58,19 +58,19 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               22 hrs 21 mins      █████████████████████████   98.07 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               17 hrs 58 mins      ████████████████████████░   97.66 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   22 hrs 48 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            22 hrs 48 mins      █████████████████████████   100.00 % 
+pd-182a-WJUFS            18 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -90,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 19:16:31 UTC
+ Last Updated on 17/12/2025 19:17:12 UTC
 <!--END_SECTION:waka-->
 
 ---
