@@ -15,15 +15,15 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C806%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C811%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 625.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,943 Contributions in the Year 2025
+> 🏆 1,946 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,9 +34,9 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌞 Morning                229 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+🌆 Daytime                2420 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌃 Evening                2530 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
 🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -45,9 +45,9 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 Monday                   361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 Tuesday                  1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 Wednesday                1179 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Thursday                 697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 Friday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Saturday                 1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Saturday                 1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
 Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
@@ -58,19 +58,22 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               17 hrs 58 mins      ████████████████████████░   97.66 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               21 hrs 19 mins      ████████████████████████░   96.65 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Lua                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 24 mins      █████████████████████████   100.00 % 
+Neovim                   22 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            18 hrs 24 mins      █████████████████████████   100.00 % 
+pd-182a-WJUFS            21 hrs 59 mins      █████████████████████████   99.61 % 
+nvim                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -90,7 +93,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2025 19:17:12 UTC
+ Last Updated on 18/12/2025 19:13:46 UTC
 <!--END_SECTION:waka-->
 
 ---
