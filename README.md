@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C824%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C836%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 624.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,999 Contributions in the Year 2025
+> 🏆 2,000 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,23 +58,23 @@ Sunday                   754 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               14 hrs 35 mins      ████████████████████░░░░░   80.81 % 
-Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Lua                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               25 hrs 28 mins      █████████████████████░░░░   82.66 % 
+Python                   3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Lua                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 2 mins       █████████████████████████   100.00 % 
+Neovim                   30 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            15 hrs 4 mins       █████████████████████░░░░   83.53 % 
-nvim                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-advent_of_code           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+pd-182a-WJUFS            26 hrs              █████████████████████░░░░   84.40 % 
+advent_of_code           2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+nvim                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Unknown Project          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Mac                      18 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      30 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -94,7 +94,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 19:12:13 UTC
+ Last Updated on 24/12/2025 19:09:23 UTC
 <!--END_SECTION:waka-->
 
 ---
