@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,7 +46,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 19:09:44 UTC
+ Last Updated on 03/01/2026 19:08:38 UTC
 <!--END_SECTION:waka-->
 
 ---
