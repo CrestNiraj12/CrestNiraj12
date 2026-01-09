@@ -78,7 +78,7 @@ advent_of_code           0 secs              ░░░░░░░░░░░�
 Mac                      15 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Ruby** 
+**I Mostly Code in Typescript** 
 
 ```text
 TypeScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
@@ -118,7 +118,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 | Neovim | Git |
 |--------|-----|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/640px-Neovim-mark-flat.svg.png" alt="neovim logo" width="28">](https://neovim.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim logo" width="28">](https://neovim.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/) |
 
 ### Other Accounts 📫
 
