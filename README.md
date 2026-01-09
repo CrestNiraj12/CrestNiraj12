@@ -112,7 +112,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 - Learning
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Go logo" width="28">](https://go.dev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Go logo" width="28">](https://go.dev/) | [<img src="https://www.lua.org/images/lua-logo.gif" alt="Lua Logo" width="28" />](https://www.lua.org/images/lua-logo.gif)
 
 ### Tools
 
