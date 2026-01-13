@@ -15,15 +15,15 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C932%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C935%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 625.0 kB Used in GitHub's Storage 
+> 📦 625.1 kB Used in GitHub's Storage 
  > 
-> 🏆 214 Contributions in the Year 2026
+> 🏆 230 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,20 +35,20 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 ```text
 🌞 Morning                241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-🌆 Daytime                2460 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌃 Evening                2562 commits        ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌆 Daytime                2462 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌃 Evening                2562 commits        ██████████░░░░░░░░░░░░░░░   39.11 % 
+🌙 Night                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   368 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Tuesday                  1153 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  1155 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 Wednesday                1198 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 707 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Friday                   1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Thursday                 707 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Friday                   1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 Saturday                 1234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Sunday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Sunday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 
 
@@ -58,25 +58,25 @@ Sunday                   755 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               24 hrs 12 mins      ████████████████░░░░░░░░░   63.77 % 
-Lua                      6 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Python                   3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               24 hrs 41 mins      ████████████████░░░░░░░░░   63.47 % 
+Lua                      6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Python                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Neovim                   37 hrs 52 mins      █████████████████████████   99.82 % 
+Neovim                   38 hrs 49 mins      █████████████████████████   99.82 % 
 VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            25 hrs 57 mins      █████████████████░░░░░░░░   68.39 % 
-advent_of_code           4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-bundle-size.nvim         2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-nvim                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-bundle_size.nvim         1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+pd-182a-WJUFS            26 hrs 54 mins      █████████████████░░░░░░░░   69.16 % 
+advent_of_code           4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+bundle-size.nvim         2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+nvim                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+bundle_size.nvim         1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-Mac                      37 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 19:18:11 UTC
+ Last Updated on 13/01/2026 19:13:52 UTC
 <!--END_SECTION:waka-->
 
 ---
