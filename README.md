@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 625.1 kB Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2026
+> 🏆 282 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,25 +58,25 @@ Sunday                   755 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               26 hrs 8 mins       ██████████████████░░░░░░░   71.66 % 
-Python                   3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Lua                      3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               21 hrs 27 mins      ██████████████████░░░░░░░   73.32 % 
+Python                   3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Lua                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 25 mins      █████████████████████████   99.83 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Neovim                   29 hrs 12 mins      █████████████████████████   99.79 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            28 hrs 9 mins       ███████████████████░░░░░░   77.18 % 
-advent_of_code           4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-bundle-size.nvim         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-nvim                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-compress-size.nvim       24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+pd-182a-WJUFS            23 hrs 25 mins      ████████████████████░░░░░   80.05 % 
+advent_of_code           4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+nvim                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+bundle-size.nvim         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+compress-size.nvim       24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      36 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:20:34 UTC
+ Last Updated on 16/01/2026 19:14:10 UTC
 <!--END_SECTION:waka-->
 
 ---
