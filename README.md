@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C946%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C946%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -58,22 +58,22 @@ Sunday                   755 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               20 hrs 48 mins      █████████████████████░░░░   84.06 % 
-Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Lua                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               19 hrs 45 mins      ██████████████████████░░░   87.37 % 
+Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+SQL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 45 mins      █████████████████████████   100.00 % 
+Neovim                   22 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            22 hrs 31 mins      ███████████████████████░░   90.99 % 
-advent_of_code           1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-nvim                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+pd-182a-WJUFS            20 hrs 57 mins      ███████████████████████░░   92.67 % 
+advent_of_code           1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+nvim                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Mac                      24 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -93,7 +93,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 19:07:28 UTC
+ Last Updated on 18/01/2026 19:06:53 UTC
 <!--END_SECTION:waka-->
 
 ---
