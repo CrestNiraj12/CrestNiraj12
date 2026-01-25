@@ -58,24 +58,24 @@ Sunday                   755 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.77 % 
-Python                   10 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.20 % 
-Lua                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               11 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.50 % 
+Python                   10 hrs 1 min        ██████████░░░░░░░░░░░░░░░   41.44 % 
+Lua                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 33 mins      █████████████████████████   100.00 % 
+Neovim                   24 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            12 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-advent_of_code           11 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.50 % 
-nvim                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+pd-182a-WJUFS            12 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.84 % 
+advent_of_code           11 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
+nvim                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      24 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 19:12:55 UTC
+ Last Updated on 25/01/2026 19:09:43 UTC
 <!--END_SECTION:waka-->
 
 ---
