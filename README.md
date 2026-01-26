@@ -17,13 +17,13 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C971%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 630.9 kB Used in GitHub's Storage 
  > 
-> 🏆 355 Contributions in the Year 2026
+> 🏆 373 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,21 +34,21 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                248 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-🌆 Daytime                2475 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
-🌃 Evening                2562 commits        ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  1287 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌞 Morning                249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌆 Daytime                2458 commits        █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌃 Evening                2528 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
+🌙 Night                  1270 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   373 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Tuesday                  1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Wednesday                1200 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Thursday                 709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Friday                   1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Saturday                 1234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Sunday                   755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Monday                   361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Tuesday                  1150 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Wednesday                1191 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Thursday                 700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Friday                   1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Saturday                 1225 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Sunday                   744 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 
 
@@ -95,7 +95,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 19:09:43 UTC
+ Last Updated on 26/01/2026 19:19:17 UTC
 <!--END_SECTION:waka-->
 
 ---
