@@ -4,7 +4,7 @@
 
 
 I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am always learning new things, ready for discussions, help people if I can and work on new projects.
-- ⚡ Fun fact: I can learn most things pretty quickly
+- ⚡ Fun fact: Code style is a design decision, not a suggestion.
 
 <br/>
 
