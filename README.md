@@ -31,7 +31,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**The harder the problem, the better my focus** 
 
 ```text
 🌞 Morning                251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
@@ -39,7 +39,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 🌃 Evening                2564 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
 🌙 Night                  1288 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on** 
 
 ```text
 Monday                   375 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
