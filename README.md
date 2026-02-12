@@ -25,8 +25,6 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
  > 
 > 🏆 539 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 59 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
