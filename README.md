@@ -15,40 +15,40 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C035%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C040%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 660.6 kB Used in GitHub's Storage 
+> 📦 666.3 kB Used in GitHub's Storage 
  > 
-> 🏆 597 Contributions in the Year 2026
+> 🏆 634 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                258 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-🌆 Daytime                2536 commits        █████████░░░░░░░░░░░░░░░░   37.94 % 
-🌃 Evening                2585 commits        ██████████░░░░░░░░░░░░░░░   38.67 % 
-🌙 Night                  1306 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+🌞 Morning                262 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+🌆 Daytime                2612 commits        ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌃 Evening                2588 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌙 Night                  1306 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Tuesday                  1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Wednesday                1209 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Thursday                 741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Friday                   1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Saturday                 1234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Sunday                   769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Monday                   421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Tuesday                  1227 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Wednesday                1209 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Thursday                 741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Friday                   1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 1234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Sunday                   769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -58,35 +58,35 @@ Sunday                   769 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
-Go                       6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Python                   4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Markdown                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Lua                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TypeScript               11 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+Go                       8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Python                   4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Lua                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 49 mins      █████████████████████████   99.99 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Neovim                   29 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            11 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-terminalrant             7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-advent_of_code           5 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Unknown Project          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-nvim                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+pd-182a-WJUFS            12 hrs 21 mins      ███████████░░░░░░░░░░░░░░   42.12 % 
+terminalrant             9 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+advent_of_code           4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Unknown Project          1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+nvim                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 Operating System: 
-Mac                      25 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
-TypeScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Ruby                     269 repos           ███████████████░░░░░░░░░░   59.78 % 
+TypeScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 Go                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
@@ -96,7 +96,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 19:28:26 UTC
+ Last Updated on 17/02/2026 19:48:45 UTC
 <!--END_SECTION:waka-->
 
 ---
