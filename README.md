@@ -15,7 +15,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C046%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C047%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -23,7 +23,7 @@ I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am
 
 > 📦 666.3 kB Used in GitHub's Storage 
  > 
-> 🏆 638 Contributions in the Year 2026
+> 🏆 641 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,25 +58,25 @@ Sunday                   769 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               11 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.32 % 
-Go                       9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.69 % 
-Markdown                 4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+TypeScript               11 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.20 % 
+Go                       9 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Markdown                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Neovim                   31 hrs 17 mins      █████████████████████████   100.00 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Neovim                   27 hrs 18 mins      █████████████████████████   99.78 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-terminalrant             13 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.90 % 
-pd-182a-WJUFS            12 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   39.40 % 
-advent_of_code           2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Unknown Project          2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-nvim                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+terminalrant             12 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
+pd-182a-WJUFS            12 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.53 % 
+Unknown Project          1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+nvim                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+advent_of_code           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      31 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ Lua                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 19:47:41 UTC
+ Last Updated on 19/02/2026 19:44:39 UTC
 <!--END_SECTION:waka-->
 
 ---
