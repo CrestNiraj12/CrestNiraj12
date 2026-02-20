@@ -79,10 +79,9 @@ advent_of_code           9 mins              ░░░░░░░░░░░�
 Mac                      27 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Ruby** 
+**I Mostly Code in Typescript** 
 
 ```text
-Ruby                     269 repos           ███████████████░░░░░░░░░░   59.78 % 
 TypeScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 Go                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
