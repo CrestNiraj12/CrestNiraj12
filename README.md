@@ -3,7 +3,7 @@
 [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/in/crestniraj/)
 
 
-I am Niraj Shrestha and I am a Software Engineer, and especially a learner. I am always learning new things, ready for discussions, help people if I can and work on new projects.
+I am a Software Engineer, and a learner. I am always learning new things, ready for discussions, help people if I can and work on new projects.
 - ⚡ Fun fact: Code style is a design decision, not a suggestion.
 
 <br/>
