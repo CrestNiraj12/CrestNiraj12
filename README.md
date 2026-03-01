@@ -15,7 +15,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C092%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C095%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -35,20 +35,20 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 ```text
 🌞 Morning                270 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-🌆 Daytime                2685 commits        ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌃 Evening                2634 commits        ██████████░░░░░░░░░░░░░░░   38.17 % 
-🌙 Night                  1311 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌆 Daytime                2686 commits        ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌃 Evening                2635 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌙 Night                  1311 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Tuesday                  1271 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Tuesday                  1271 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 Wednesday                1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Thursday                 751 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   1190 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 1236 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Sunday                   796 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   1190 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Sunday                   797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 
 
@@ -58,24 +58,24 @@ Sunday                   796 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Lua                      29 hrs 54 mins      █████████████████████░░░░   83.74 % 
-TypeScript               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Rust                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Lua                      31 hrs 25 mins      ████████████████████░░░░░   81.86 % 
+TypeScript               3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Rust                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Neovim                   35 hrs 43 mins      █████████████████████████   100.00 % 
+Neovim                   38 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-observe.nvim             22 hrs 3 mins       ███████████████░░░░░░░░░░   61.74 % 
-nvim                     8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-pd-182a-WJUFS            4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-advent_of_code           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-snacks.nvim              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+observe.nvim             23 hrs 21 mins      ███████████████░░░░░░░░░░   60.86 % 
+nvim                     8 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+pd-182a-WJUFS            4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+advent_of_code           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+snacks.nvim              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      35 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2026 19:12:39 UTC
+ Last Updated on 01/03/2026 19:14:14 UTC
 <!--END_SECTION:waka-->
 
 ---
