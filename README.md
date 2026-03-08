@@ -58,24 +58,24 @@ Sunday                   807 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-Lua                      8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-Python                   3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Astro                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               9 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.05 % 
+Lua                      6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Python                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   20 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            9 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-observe.nvim             6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-advent_of_code           3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-nvim                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-learn-rust               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+pd-182a-WJUFS            9 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.52 % 
+observe.nvim             4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+advent_of_code           2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+nvim                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+learn-rust               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Mac                      23 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 19:13:55 UTC
+ Last Updated on 08/03/2026 19:14:53 UTC
 <!--END_SECTION:waka-->
 
 ---
