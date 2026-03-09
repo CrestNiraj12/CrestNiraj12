@@ -23,13 +23,13 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 666.5 kB Used in GitHub's Storage 
  > 
-> 🏆 782 Contributions in the Year 2026
+> 🏆 798 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 59 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -58,24 +58,24 @@ Sunday                   807 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               9 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.05 % 
-Lua                      6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Python                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+TypeScript               9 hrs 33 mins       █████████████░░░░░░░░░░░░   51.69 % 
+Lua                      5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 5 mins       █████████████████████████   100.00 % 
+Neovim                   18 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            9 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.52 % 
-observe.nvim             4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-advent_of_code           2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-nvim                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-learn-rust               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+pd-182a-WJUFS            9 hrs 33 mins       █████████████░░░░░░░░░░░░   51.69 % 
+observe.nvim             3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+advent_of_code           2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+nvim                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+learn-rust               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
-Mac                      20 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 19:14:53 UTC
+ Last Updated on 09/03/2026 19:40:58 UTC
 <!--END_SECTION:waka-->
 
 ---
