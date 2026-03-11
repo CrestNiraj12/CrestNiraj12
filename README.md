@@ -23,7 +23,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 666.5 kB Used in GitHub's Storage 
  > 
-> 🏆 798 Contributions in the Year 2026
+> 🏆 807 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,24 +58,24 @@ Sunday                   807 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               12 hrs 39 mins      ███████████████░░░░░░░░░░   60.17 % 
-Lua                      5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Git                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               12 hrs 17 mins      ███████████████░░░░░░░░░░   60.64 % 
+Lua                      4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Python                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Git                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Neovim                   21 hrs 2 mins       █████████████████████████   100.00 % 
+Neovim                   20 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            12 hrs 52 mins      ███████████████░░░░░░░░░░   61.20 % 
-observe.nvim             4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-advent_of_code           2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-nvim                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-wtf-portfolio            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+pd-182a-WJUFS            12 hrs 27 mins      ███████████████░░░░░░░░░░   61.50 % 
+observe.nvim             3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+advent_of_code           2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+nvim                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+wtf-portfolio            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Mac                      21 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 19:41:53 UTC
+ Last Updated on 11/03/2026 19:43:49 UTC
 <!--END_SECTION:waka-->
 
 ---
