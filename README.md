@@ -15,7 +15,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C164%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C173%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,7 +23,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 666.5 kB Used in GitHub's Storage 
  > 
-> 🏆 834 Contributions in the Year 2026
+> 🏆 852 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,26 +58,26 @@ Sunday                   807 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               15 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Text                     14 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Python                   7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Docker                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JavaScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript               19 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.39 % 
+Text                     16 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Python                   7 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Docker                   2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JavaScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Neovim                   45 hrs 37 mins      █████████████████████████   99.44 % 
-Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Neovim                   53 hrs 4 mins       █████████████████████████   99.52 % 
+Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 hrs 49 mins      ████████████░░░░░░░░░░░░░   49.75 % 
-pd-182a-WJUFS            15 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   34.01 % 
-task_47c091cc            3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-task_33287351            2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-observe.nvim             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Unknown Project          26 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.44 % 
+pd-182a-WJUFS            19 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   37.01 % 
+task_47c091cc            3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+task_33287351            2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+observe.nvim             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Mac                      45 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      53 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -97,7 +97,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 19:50:12 UTC
+ Last Updated on 19/03/2026 19:50:15 UTC
 <!--END_SECTION:waka-->
 
 ---
