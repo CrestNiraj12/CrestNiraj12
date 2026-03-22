@@ -15,7 +15,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C193%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C193%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,8 +35,8 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 ```text
 🌞 Morning                274 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-🌆 Daytime                2712 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
-🌃 Evening                2660 commits        ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌆 Daytime                2713 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌃 Evening                2660 commits        ██████████░░░░░░░░░░░░░░░   38.21 % 
 🌙 Night                  1314 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -48,7 +48,7 @@ Wednesday                1235 commits        ████░░░░░░░�
 Thursday                 756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 Friday                   1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Sunday                   807 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
 
@@ -58,25 +58,25 @@ Sunday                   807 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Text                     19 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
-TypeScript               18 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.08 % 
-Python                   9 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Docker                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript               18 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   37.27 % 
+Text                     17 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
+Python                   6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Docker                   3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Neovim                   53 hrs 24 mins      █████████████████████████   99.97 % 
+Neovim                   48 hrs 49 mins      █████████████████████████   99.97 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Unknown Project          33 hrs 17 mins      ████████████████░░░░░░░░░   62.33 % 
-pd-182a-WJUFS            19 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
-snes-llvm                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-MEGAMOJI                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-TechMasteryWebsite-prod  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Unknown Project          28 hrs 1 min        ██████████████░░░░░░░░░░░   57.39 % 
+pd-182a-WJUFS            19 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
+wordpress_plugin         44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+snes-llvm                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+MEGAMOJI                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Mac                      53 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 19:16:45 UTC
+ Last Updated on 22/03/2026 19:18:27 UTC
 <!--END_SECTION:waka-->
 
 ---
