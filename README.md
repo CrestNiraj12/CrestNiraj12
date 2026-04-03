@@ -15,40 +15,40 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C234%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C234%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 667.2 kB Used in GitHub's Storage 
+> 📦 667.6 kB Used in GitHub's Storage 
  > 
-> 🏆 939 Contributions in the Year 2026
+> 🏆 953 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-🌆 Daytime                2717 commits        ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌃 Evening                2660 commits        ██████████░░░░░░░░░░░░░░░   38.17 % 
-🌙 Night                  1314 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌞 Morning                282 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+🌆 Daytime                2724 commits        ██████████░░░░░░░░░░░░░░░   39.03 % 
+🌃 Evening                2660 commits        ██████████░░░░░░░░░░░░░░░   38.11 % 
+🌙 Night                  1314 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Tuesday                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Wednesday                1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Thursday                 756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Monday                   437 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Tuesday                  1286 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Thursday                 756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Friday                   1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Sunday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 
 
@@ -58,34 +58,34 @@ Sunday                   814 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               16 hrs 18 mins      █████████████████░░░░░░░░   67.90 % 
-Text                     3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-PHP                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               9 hrs 21 mins       ███████████████░░░░░░░░░░   58.65 % 
+Text                     2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+PHP                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 1 min        █████████████████████████   100.00 % 
+Neovim                   15 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            13 hrs 54 mins      ██████████████░░░░░░░░░░░   57.88 % 
-wordpress_plugin         5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-astro-portfolio          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-portfolio-website        1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-new-portfolio-website    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+pd-182a-WJUFS            7 hrs               ███████████░░░░░░░░░░░░░░   43.95 % 
+wordpress_plugin         4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+astro-portfolio          2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+portfolio-website        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+new-portfolio-website    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      24 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     269 repos           ███████████████░░░░░░░░░░   59.65 % 
-TypeScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Go                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Lua                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Ruby                     269 repos           ███████████████░░░░░░░░░░   59.51 % 
+TypeScript               11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Go                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Lua                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 19:49:25 UTC
+ Last Updated on 03/04/2026 19:29:24 UTC
 <!--END_SECTION:waka-->
 
 ---
