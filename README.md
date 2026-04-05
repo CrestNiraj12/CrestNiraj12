@@ -15,7 +15,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C239%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C241%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -58,24 +58,24 @@ Sunday                   814 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-TypeScript               10 hrs 58 mins      █████████████████░░░░░░░░   69.38 % 
-JavaScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               11 hrs 50 mins      █████████████████░░░░░░░░   69.78 % 
+JavaScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Astro                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 48 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pd-182a-WJUFS            6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-astro-portfolio          5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-wordpress_plugin         1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-portfolio-website        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-new-portfolio-website    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+pd-182a-WJUFS            6 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+astro-portfolio          5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
+pidit-nepal              1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+portfolio-website        1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+wordpress_plugin         42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 Operating System: 
-Mac                      15 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -95,7 +95,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 19:25:08 UTC
+ Last Updated on 05/04/2026 19:27:08 UTC
 <!--END_SECTION:waka-->
 
 ---
