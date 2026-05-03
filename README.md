@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C334%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C340%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,25 +58,25 @@ Sunday                   814 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Python                   5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Diff                     5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Text                     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-TypeScript               3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Markdown                 7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Python                   5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Diff                     5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Text                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+TypeScript               3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 52 mins      █████████████░░░░░░░░░░░░   53.76 % 
-Unknown Editor           14 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.24 % 
+Neovim                   19 hrs 5 mins       █████████████░░░░░░░░░░░░   53.99 % 
+Unknown Editor           16 hrs 16 mins      ████████████░░░░░░░░░░░░░   46.01 % 
 
 🐱‍💻 Projects: 
-olympus                  19 hrs 1 min        ███████████████░░░░░░░░░░   60.62 % 
-pd-182a-WJUFS            3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-pydantic-ai              1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-pytest                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-rich                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+olympus                  21 hrs 44 mins      ███████████████░░░░░░░░░░   61.49 % 
+pd-182a-WJUFS            3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+pytest                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+ripgrep                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+pydantic-ai              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-Mac                      31 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 19:51:39 UTC
+ Last Updated on 03/05/2026 19:50:04 UTC
 <!--END_SECTION:waka-->
 
 ---
