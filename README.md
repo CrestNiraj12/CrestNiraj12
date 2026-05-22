@@ -15,15 +15,13 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C413%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 667.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,187 Contributions in the Year 2026
+> 🏆 1,205 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,20 +32,20 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                282 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-🌆 Daytime                2727 commits        ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌃 Evening                2661 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  1316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌞 Morning                283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌆 Daytime                2727 commits        ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌃 Evening                2662 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
+🌙 Night                  1316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   440 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 Tuesday                  1287 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 Thursday                 756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Friday                   1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Friday                   1215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 Sunday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
@@ -96,7 +94,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:42:54 UTC
+ Last Updated on 22/05/2026 20:38:15 UTC
 <!--END_SECTION:waka-->
 
 ---
