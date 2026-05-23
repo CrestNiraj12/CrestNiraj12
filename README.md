@@ -19,72 +19,24 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 **🐱 My GitHub Data** 
 
-> 📦 667.7 kB Used in GitHub's Storage 
+> 📦 667.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,205 Contributions in the Year 2026
+> 🏆 1,220 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-🌆 Daytime                2727 commits        ██████████░░░░░░░░░░░░░░░   39.02 % 
-🌃 Evening                2662 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  1316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   440 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Tuesday                  1287 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Thursday                 756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Friday                   1215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Saturday                 1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Sunday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-TypeScript               14 hrs 52 mins      ███████████████░░░░░░░░░░   59.51 % 
-Markdown                 3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Diff                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-
-🔥 Editors: 
-Claude Code              17 hrs 12 mins      █████████████████░░░░░░░░   68.82 % 
-Neovim                   7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-
-🐱‍💻 Projects: 
-pd-182a-WJUFS            18 hrs 38 mins      ███████████████████░░░░░░   74.61 % 
-olympus                  4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-prometheus_olympus_scan  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-repo                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-
-💻 Operating System: 
-Mac                      24 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     269 repos           ███████████████░░░░░░░░░░   59.51 % 
+Ruby                     269 repos           ███████████████░░░░░░░░░░   59.38 % 
+HTML                     40 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 TypeScript               11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 Go                       4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Lua                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
@@ -94,7 +46,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:38:15 UTC
+ Last Updated on 23/05/2026 20:03:08 UTC
 <!--END_SECTION:waka-->
 
 ---
