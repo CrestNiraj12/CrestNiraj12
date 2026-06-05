@@ -15,15 +15,15 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C500%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C515%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 668.4 kB Used in GitHub's Storage 
+> 📦 668.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,284 Contributions in the Year 2026
+> 🏆 1,298 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,55 +31,6 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                303 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-🌆 Daytime                2789 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
-🌃 Evening                2710 commits        █████████░░░░░░░░░░░░░░░░   37.94 % 
-🌙 Night                  1340 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Tuesday                  1315 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Wednesday                1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Thursday                 775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Saturday                 1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Sunday                   830 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-Markdown                 37 hrs 3 mins       ███████████████░░░░░░░░░░   60.08 % 
-TypeScript               9 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Go                       5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Other                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-
-🔥 Editors: 
-Claude Code              53 hrs 44 mins      ██████████████████████░░░   87.11 % 
-Neovim                   7 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🐱‍💻 Projects: 
-terminalrant             12 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-afterquery               6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-pd-182a-WJUFS            5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-astro-portfolio          5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-olympus                  5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-
-💻 Operating System: 
-Mac                      61 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -97,7 +48,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:50:17 UTC
+ Last Updated on 05/06/2026 20:44:15 UTC
 <!--END_SECTION:waka-->
 
 ---
