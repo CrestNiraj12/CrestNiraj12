@@ -15,7 +15,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C696%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C711%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -23,7 +23,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 669.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,350 Contributions in the Year 2026
+> 🏆 1,357 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,21 +34,21 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                338 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-🌆 Daytime                3293 commits        ██████████░░░░░░░░░░░░░░░   38.65 % 
-🌃 Evening                3263 commits        ██████████░░░░░░░░░░░░░░░   38.29 % 
-🌙 Night                  1627 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌞 Morning                339 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+🌆 Daytime                3311 commits        ██████████░░░░░░░░░░░░░░░   38.54 % 
+🌃 Evening                3297 commits        ██████████░░░░░░░░░░░░░░░   38.38 % 
+🌙 Night                  1644 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   475 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Tuesday                  1574 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Wednesday                1516 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Thursday                 901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Friday                   1464 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 1572 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Sunday                   1019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Monday                   489 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Tuesday                  1583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Wednesday                1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Thursday                 910 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Friday                   1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 1581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Sunday                   1030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
 
@@ -58,25 +58,25 @@ Sunday                   1019 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 29 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   37.86 % 
-Go                       21 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Rust                     7 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Diff                     4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Python                   3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Go                       26 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Markdown                 25 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Rust                     10 hrs 22 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Diff                     3 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Claude Code              62 hrs 46 mins      ████████████████████░░░░░   81.20 % 
-Neovim                   14 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Claude Code              67 hrs 43 mins      █████████████████████░░░░   84.94 % 
+Neovim                   12 hrs              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 
 🐱‍💻 Projects: 
-olympus                  34 hrs 12 mins      ███████████░░░░░░░░░░░░░░   44.25 % 
-repo                     8 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-pd-182a-WJUFS            4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-cel-go                   2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-gms_scan                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+olympus                  31 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.83 % 
+repo                     7 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+bbolt_ref                3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+pd-182a-WJUFS            3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+cel-go                   2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Mac                      77 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      79 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +96,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 20:37:05 UTC
+ Last Updated on 25/06/2026 20:49:43 UTC
 <!--END_SECTION:waka-->
 
 ---
