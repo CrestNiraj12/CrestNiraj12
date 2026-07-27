@@ -15,7 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C034%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C001%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-755%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -23,7 +25,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 670.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,478 Contributions in the Year 2026
+> 🏆 1,486 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,25 +60,48 @@ Sunday                   1084 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 41 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.35 % 
-Diff                     17 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-TypeScript               6 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Rust                     5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Python                   3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Markdown                 38 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.68 % 
+Diff                     18 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Rust                     7 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+TypeScript               6 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Go                       4 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Claude Code              70 hrs 17 mins      ████████████████████░░░░░   81.82 % 
-Neovim                   15 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Claude Code              69 hrs 43 mins      ████████████████████░░░░░   81.40 % 
+Neovim                   15 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 
 🐱‍💻 Projects: 
-olympus                  66 hrs 45 mins      ███████████████████░░░░░░   77.72 % 
-repo                     5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-pd-182a-WJUFS            1 hr 27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-nw                       1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-diesel                   1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+olympus                  65 hrs 16 mins      ███████████████████░░░░░░   76.20 % 
+repo                     5 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+pd-182a-WJUFS            1 hr 27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+work                     1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+diesel                   1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      85 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      85 hrs 39 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 82 hrs 41 mins (96.53%)
+
+✍️ 54,421 lines written by AI, 8,865 lines written by hand (85.99% AI-written)
+
+🔤 3,714,833,081 Input Tokens, 12,237,895 Output Tokens
+
+💵 $14643.43 Estimated AI Cost This Week
+
+🧠 153 AI Sessions, 1243 AI Prompts
+
+Opus                     38,883 lines        █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.99% of written lines came from AI
+📚 Verbose Prompter — average 4,289 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 13.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -96,7 +121,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 20:02:31 UTC
+ Last Updated on 27/07/2026 20:23:32 UTC
 <!--END_SECTION:waka-->
 
 ---
