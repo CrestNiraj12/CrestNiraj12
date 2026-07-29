@@ -15,13 +15,17 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C022%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-775%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 670.6 kB Used in GitHub's Storage 
+> 📦 670.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,486 Contributions in the Year 2026
+> 🏆 1,489 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,6 +33,76 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                359 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌆 Daytime                3599 commits        ██████████░░░░░░░░░░░░░░░   38.37 % 
+🌃 Evening                3613 commits        ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  1808 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   513 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Tuesday                  1731 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Wednesday                1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Thursday                 982 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Friday                   1601 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 1745 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Sunday                   1138 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+Markdown                 36 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.51 % 
+Diff                     18 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Rust                     7 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+TypeScript               6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Go                       3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+
+🔥 Editors: 
+Claude Code              68 hrs 23 mins      █████████████████████░░░░   82.08 % 
+Neovim                   14 hrs 56 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+
+🐱‍💻 Projects: 
+olympus                  62 hrs 43 mins      ███████████████████░░░░░░   75.26 % 
+repo                     6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+pd-182a-WJUFS            2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+work                     1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+diesel                   1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+
+💻 Operating System: 
+Mac                      83 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 79 hrs 51 mins (95.83%)
+
+✍️ 59,739 lines written by AI, 10,137 lines written by hand (85.49% AI-written)
+
+🔤 3,698,956,516 Input Tokens, 10,730,627 Output Tokens
+
+💵 $14712.24 Estimated AI Cost This Week
+
+🧠 64 AI Sessions, 1113 AI Prompts
+
+Opus                     44,056 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.49% of written lines came from AI
+📚 Verbose Prompter — average 3,864 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 14.64% of changed lines were hand-edited
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -46,7 +120,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:19:53 UTC
+ Last Updated on 29/07/2026 20:10:52 UTC
 <!--END_SECTION:waka-->
 
 ---
