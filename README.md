@@ -15,17 +15,13 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C094%20hrs%2056%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-846%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 671.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,523 Contributions in the Year 2026
+> 🏆 1,528 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,76 +29,6 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                364 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-🌆 Daytime                3671 commits        ██████████░░░░░░░░░░░░░░░   38.34 % 
-🌃 Evening                3692 commits        ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌙 Night                  1849 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   519 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Tuesday                  1768 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Wednesday                1705 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Friday                   1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 1786 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Sunday                   1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-Markdown                 36 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.05 % 
-Diff                     14 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Go                       5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Rust                     4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-TypeScript               3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-
-🔥 Editors: 
-Claude Code              62 hrs 12 mins      █████████████████████░░░░   84.30 % 
-Neovim                   11 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-
-🐱‍💻 Projects: 
-olympus                  59 hrs 9 mins       ████████████████████░░░░░   80.18 % 
-repo                     4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-pd-182a-WJUFS            2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-ship                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-ogen                     1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-
-💻 Operating System: 
-Mac                      73 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 71 hrs 6 mins (96.35%)
-
-✍️ 23,082 lines written by AI, 5,149 lines written by hand (81.76% AI-written)
-
-🔤 3,200,250,204 Input Tokens, 7,726,184 Output Tokens
-
-💵 $16173.42 Estimated AI Cost This Week
-
-🧠 63 AI Sessions, 1192 AI Prompts
-
-Opus                     23,539 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 81.76% of written lines came from AI
-📚 Verbose Prompter — average 2,327 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 19.7% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -120,7 +46,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:28:07 UTC
+ Last Updated on 07/08/2026 00:45:12 UTC
 <!--END_SECTION:waka-->
 
 ---
