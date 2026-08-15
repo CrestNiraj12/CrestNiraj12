@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C208%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C223%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-958%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-972%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -60,49 +60,48 @@ Sunday                   1219 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 36 hrs 38 mins      ███████████░░░░░░░░░░░░░░   42.97 % 
-Go                       11 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Diff                     10 hrs 26 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Python                   10 hrs 15 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-TypeScript               4 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 40 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
+Diff                     11 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Python                   11 hrs 32 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Go                       11 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Docker                   4 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Claude Code              75 hrs 38 mins      ██████████████████████░░░   88.68 % 
-Neovim                   9 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Claude Code              80 hrs 54 mins      ██████████████████████░░░   88.55 % 
+Neovim                   10 hrs 27 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 🐱‍💻 Projects: 
-olympus                  62 hrs 27 mins      ██████████████████░░░░░░░   73.23 % 
-pd-182a-WJUFS            4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-repo                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-helmfile                 1 hr 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-ocwork                   1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+olympus                  69 hrs 50 mins      ███████████████████░░░░░░   76.43 % 
+repo                     2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+pd-182a-WJUFS            2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+helmfile                 1 hr 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+ocwork                   1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Mac                      85 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      91 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 83 hrs 17 mins (97.65%)
+⏱ AI Coding Time: 89 hrs 14 mins (97.66%)
 
-✍️ 84,048 lines written by AI, 15,700 lines written by hand (84.26% AI-written)
+✍️ 92,077 lines written by AI, 43,174 lines written by hand (68.08% AI-written)
 
-🔤 264,589,486 Input Tokens, 18,670,990 Output Tokens
+🔤 100,294,475 Input Tokens, 21,705,135 Output Tokens
 
-💵 $4515.37 Estimated AI Cost This Week
+💵 $3794.56 Estimated AI Cost This Week
 
-🧠 566 AI Sessions, 1339 AI Prompts
+🧠 562 AI Sessions, 1433 AI Prompts
 
-Opus                     86,406 lines        █████████████████████████   99.80 % 
-Fable                    171 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     94,590 lines        █████████████████████████   99.82 % 
+Fable                    171 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.26% of written lines came from AI
-📚 Verbose Prompter — average 10,068 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 16.31% of changed lines were hand-edited
+🤖 AI-Driven — 68.08% of written lines came from AI
+📚 Verbose Prompter — average 9,958 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 37.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -122,7 +121,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:53:35 UTC
+ Last Updated on 15/08/2026 19:17:02 UTC
 <!--END_SECTION:waka-->
 
 ---
