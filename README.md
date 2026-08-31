@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C395%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C405%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C144%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C154%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -60,47 +60,46 @@ Sunday                   1253 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 51 hrs 4 mins       ███████████████░░░░░░░░░░   58.29 % 
-Diff                     32 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.38 % 
-Docker                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Go                       39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Python                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown                 48 hrs 27 mins      ██████████████░░░░░░░░░░░   56.90 % 
+Diff                     31 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   37.51 % 
+Other                    1 hr 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Docker                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Claude Code              76 hrs 47 mins      ██████████████████████░░░   87.61 % 
-Neovim                   10 hrs 51 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Claude Code              76 hrs 5 mins       ██████████████████████░░░   89.34 % 
+Neovim                   9 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 🐱‍💻 Projects: 
-olympus                  86 hrs 21 mins      █████████████████████████   98.53 % 
-pd-182a-WJUFS            36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-srev2                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-gold                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+olympus                  85 hrs              █████████████████████████   99.82 % 
 seaorm                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+repo                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      87 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      85 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 85 hrs 47 mins (97.89%)
+⏱ AI Coding Time: 83 hrs 30 mins (98.07%)
 
-✍️ 923 lines written by AI, 47,624 lines written by hand (1.9% AI-written)
+✍️ 1,693 lines written by AI, 32,510 lines written by hand (4.95% AI-written)
 
-🔤 86,657,763 Input Tokens, 16,495,912 Output Tokens
+🔤 82,128,445 Input Tokens, 15,608,197 Output Tokens
 
-💵 $4433.69 Estimated AI Cost This Week
+💵 $4363.83 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 1817 AI Prompts
+🧠 52 AI Sessions, 1671 AI Prompts
 
-Opus                     961 lines           █████████████████████████   100.00 % 
+Opus                     1,760 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.9% of written lines came from AI
-📚 Verbose Prompter — average 3,499 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🔍 Hands-On Reviewer — 98.44% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.95% of written lines came from AI
+📚 Verbose Prompter — average 4,164 characters per prompt
+🔁 Iterative Prompter — average 32 prompts per session
+🔍 Hands-On Reviewer — 96.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -120,7 +119,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:40:24 UTC
+ Last Updated on 31/08/2026 23:15:29 UTC
 <!--END_SECTION:waka-->
 
 ---
