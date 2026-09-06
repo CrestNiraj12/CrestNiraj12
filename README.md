@@ -15,17 +15,17 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C463%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C480%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C213%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C231%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 685.4 kB Used in GitHub's Storage 
+> 📦 686.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,601 Contributions in the Year 2026
+> 🏆 1,602 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,7 +37,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 ```text
 🌞 Morning                403 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-🌆 Daytime                3969 commits        ██████████░░░░░░░░░░░░░░░   38.15 % 
+🌆 Daytime                3970 commits        ██████████░░░░░░░░░░░░░░░   38.15 % 
 🌃 Evening                4009 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
 🌙 Night                  2024 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
@@ -50,7 +50,7 @@ Wednesday                1854 commits        ████░░░░░░░�
 Thursday                 1089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 Friday                   1765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 Saturday                 1951 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   1280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   1281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 ```
 
 
@@ -60,47 +60,47 @@ Sunday                   1280 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 42 hrs 47 mins      ████████████░░░░░░░░░░░░░   48.91 % 
-Diff                     36 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.75 % 
-Other                    5 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Docker                   48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-TypeScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 46 hrs              █████████████░░░░░░░░░░░░   50.60 % 
+Diff                     36 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
+Other                    4 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Docker                   49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Claude Code              80 hrs 5 mins       ███████████████████████░░   91.53 % 
-Neovim                   7 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Claude Code              83 hrs 12 mins      ███████████████████████░░   91.52 % 
+Neovim                   7 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🐱‍💻 Projects: 
-olympus                  86 hrs 42 mins      █████████████████████████   99.08 % 
-repo                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-sharedb                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-rv2                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+olympus                  90 hrs 11 mins      █████████████████████████   99.19 % 
+repo                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+sharedb                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+rv2                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 REGEN                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      87 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      90 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 85 hrs 52 mins (98.14%)
+⏱ AI Coding Time: 89 hrs 28 mins (98.4%)
 
-✍️ 3,642 lines written by AI, 28,539 lines written by hand (11.32% AI-written)
+✍️ 3,723 lines written by AI, 29,261 lines written by hand (11.29% AI-written)
 
-🔤 77,969,772 Input Tokens, 15,023,007 Output Tokens
+🔤 84,159,344 Input Tokens, 16,276,904 Output Tokens
 
-💵 $3881.87 Estimated AI Cost This Week
+💵 $4161.47 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 1505 AI Prompts
+🧠 53 AI Sessions, 1706 AI Prompts
 
-Opus                     3,705 lines         █████████████████████████   100.00 % 
+Opus                     3,786 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.32% of written lines came from AI
-📚 Verbose Prompter — average 5,003 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
-🔍 Hands-On Reviewer — 90.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.29% of written lines came from AI
+📚 Verbose Prompter — average 4,817 characters per prompt
+🔁 Iterative Prompter — average 32 prompts per session
+🔍 Hands-On Reviewer — 91.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -120,7 +120,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:53:22 UTC
+ Last Updated on 06/09/2026 20:57:55 UTC
 <!--END_SECTION:waka-->
 
 ---
