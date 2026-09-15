@@ -15,11 +15,11 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C610%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C628%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C360%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C377%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,51 +60,51 @@ Sunday                   1281 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 47 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.24 % 
-TypeScript               26 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Diff                     12 hrs 36 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Python                   8 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Bash                     4 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown                 47 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
+TypeScript               24 hrs              █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Diff                     11 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Python                   11 hrs 9 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Go                       4 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-Codex CLI                66 hrs 18 mins      ██████████████░░░░░░░░░░░   56.52 % 
-Neovim                   41 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.27 % 
-Claude Code              9 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Codex CLI                70 hrs 16 mins      ███████████████░░░░░░░░░░   59.70 % 
+Neovim                   40 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.82 % 
+Claude Code              6 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-olympus                  69 hrs 56 mins      ███████████████░░░░░░░░░░   59.61 % 
-repo                     18 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Unknown Project          4 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-upstream-pin             4 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+olympus                  68 hrs 45 mins      ███████████████░░░░░░░░░░   58.40 % 
+repo                     20 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Unknown Project          5 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 field-form-running-round 2 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+upstream-pin             1 hr 40 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Mac                      117 hrs 20 mins     █████████████████████████   100.00 % 
+Mac                      117 hrs 43 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 114 hrs 21 mins (97.46%)
+⏱ AI Coding Time: 114 hrs 38 mins (97.38%)
 
-✍️ 90,747 lines written by AI, 52,927 lines written by hand (63.16% AI-written)
+✍️ 100,053 lines written by AI, 53,580 lines written by hand (65.12% AI-written)
 
-🔤 383,207,000 Input Tokens, 20,983,626 Output Tokens
+🔤 414,271,433 Input Tokens, 22,250,412 Output Tokens
 
-💵 $3842.51 Estimated AI Cost This Week
+💵 $3989.08 Estimated AI Cost This Week
 
-🧠 266 AI Sessions, 7409 AI Prompts
+🧠 248 AI Sessions, 7593 AI Prompts
 
-GPT                      99,444 lines        █████████████████████████   98.60 % 
-Opus                     1,208 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Codex-Cli                200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GPT                      111,576 lines       █████████████████████████   99.36 % 
+Opus                     518 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Codex-Cli                200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.16% of written lines came from AI
-📚 Verbose Prompter — average 99,262 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 40.87% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.12% of written lines came from AI
+📚 Verbose Prompter — average 105,493 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🚀 High AI Trust — 39.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -124,7 +124,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:16:24 UTC
+ Last Updated on 15/09/2026 21:57:26 UTC
 <!--END_SECTION:waka-->
 
 ---
