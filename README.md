@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C791%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C801%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C539%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C549%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -25,7 +25,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 3,176 Contributions in the Year 2026
+> 🏆 3,269 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +36,21 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                641 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌆 Daytime                4267 commits        █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌃 Evening                4195 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌙 Night                  2262 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌞 Morning                649 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌆 Daytime                4322 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                4218 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌙 Night                  2276 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   718 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Tuesday                  2149 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                2001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Thursday                 1233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Saturday                 2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Sunday                   1399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Monday                   732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Tuesday                  2149 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Wednesday                2001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 1233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Friday                   1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Saturday                 2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Sunday                   1485 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -60,51 +60,52 @@ Sunday                   1399 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 49 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.84 % 
-Rust                     13 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Diff                     12 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-TypeScript               9 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Python                   5 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 49 hrs 37 mins      ████████████░░░░░░░░░░░░░   47.82 % 
+Rust                     12 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Diff                     12 hrs 34 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+TypeScript               11 hrs 22 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Python                   6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Codex CLI                60 hrs 1 min        ██████████████░░░░░░░░░░░   57.64 % 
-Neovim                   36 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   35.49 % 
-Claude Code              7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Codex CLI                60 hrs 19 mins      ███████████████░░░░░░░░░░   58.13 % 
+Neovim                   37 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
+Claude Code              5 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-olympus                  69 hrs 39 mins      █████████████████░░░░░░░░   66.89 % 
-repo                     7 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Unknown Project          3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-chev-r27-evidence-20260921 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-mockall-r18-final        1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+olympus                  69 hrs 29 mins      █████████████████░░░░░░░░   66.97 % 
+repo                     7 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Unknown Project          3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+chev-r27-evidence-20260921 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+mockall-r18-final        1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      104 hrs 8 mins      █████████████████████████   100.00 % 
+Mac                      103 hrs 46 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 101 hrs (96.99%)
+⏱ AI Coding Time: 100 hrs 24 mins (96.75%)
 
-✍️ 77,412 lines written by AI, 30,170 lines written by hand (71.96% AI-written)
+✍️ 73,630 lines written by AI, 30,229 lines written by hand (70.89% AI-written)
 
-🔤 212,849,570 Input Tokens, 16,932,604 Output Tokens
+🔤 210,936,613 Input Tokens, 16,581,088 Output Tokens
 
-💵 $5746.18 Estimated AI Cost This Week
+💵 $5759.67 Estimated AI Cost This Week
 
-🧠 247 AI Sessions, 5816 AI Prompts
+🧠 265 AI Sessions, 5881 AI Prompts
 
-GPT                      82,577 lines        █████████████████████████   99.42 % 
-Fable                    314 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Opus                     169 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GPT                      78,605 lines        █████████████████████████   99.60 % 
+Fable                    314 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.96% of written lines came from AI
-📚 Verbose Prompter — average 43,671 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🚀 High AI Trust — 34.94% of changed lines were hand-edited
+🤖 AI-Driven — 70.89% of written lines came from AI
+📚 Verbose Prompter — average 45,081 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 36.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -124,7 +125,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:42:30 UTC
+ Last Updated on 27/09/2026 21:49:20 UTC
 <!--END_SECTION:waka-->
 
 ---
