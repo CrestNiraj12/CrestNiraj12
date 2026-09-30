@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C823%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C837%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C570%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C584%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -25,7 +25,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 3,355 Contributions in the Year 2026
+> 🏆 3,363 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +36,21 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                653 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-🌆 Daytime                4290 commits        █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌃 Evening                4274 commits        █████████░░░░░░░░░░░░░░░░   37.28 % 
-🌙 Night                  2247 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌞 Morning                679 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌆 Daytime                4415 commits        █████████░░░░░░░░░░░░░░░░   37.53 % 
+🌃 Evening                4366 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌙 Night                  2305 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   857 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Tuesday                  2219 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Wednesday                1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Friday                   1829 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Saturday                 1989 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Sunday                   1380 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Monday                   883 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Tuesday                  2257 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Wednesday                2042 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Thursday                 1241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Friday                   1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Sunday                   1477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 ```
 
 
@@ -60,61 +60,61 @@ Sunday                   1380 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 45 hrs 54 mins      █████████████░░░░░░░░░░░░   50.53 % 
-Diff                     15 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               9 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Rust                     5 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Python                   3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 49 hrs 51 mins      ██████████████░░░░░░░░░░░   54.13 % 
+Diff                     14 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+TypeScript               8 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Python                   5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JavaScript               4 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Codex CLI                39 hrs 13 mins      ███████████░░░░░░░░░░░░░░   43.18 % 
-Neovim                   31 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.61 % 
-Claude Code              14 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-VS Code                  5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Neovim                   34 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   37.41 % 
+Codex CLI                32 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   35.15 % 
+Claude Code              13 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+VS Code                  12 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 🐱‍💻 Projects: 
-olympus                  68 hrs 21 mins      ███████████████████░░░░░░   75.24 % 
-repo                     3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Unknown Project          2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-gold                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-edit                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+olympus                  71 hrs 59 mins      ████████████████████░░░░░   78.16 % 
+Unknown Project          2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+repo                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+edit                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+gold                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      90 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      92 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 88 hrs 8 mins (97.01%)
+⏱ AI Coding Time: 89 hrs 29 mins (97.17%)
 
-✍️ 37,191 lines written by AI, 16,301 lines written by hand (69.53% AI-written)
+✍️ 31,654 lines written by AI, 14,678 lines written by hand (68.32% AI-written)
 
-🔤 141,992,360 Input Tokens, 13,548,779 Output Tokens
+🔤 134,501,638 Input Tokens, 14,367,760 Output Tokens
 
-💵 $4918.17 Estimated AI Cost This Week
+💵 $4870.67 Estimated AI Cost This Week
 
-🧠 268 AI Sessions, 4129 AI Prompts
+🧠 290 AI Sessions, 4170 AI Prompts
 
-GPT                      38,905 lines        ████████████████████████░   97.16 % 
-Fable                    585 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Opus                     551 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+GPT                      33,081 lines        ████████████████████████░   96.68 % 
+Fable                    585 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Opus                     551 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.53% of written lines came from AI
-📚 Verbose Prompter — average 42,071 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 37.38% of changed lines were hand-edited
+🤖 AI-Driven — 68.32% of written lines came from AI
+📚 Verbose Prompter — average 34,566 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 38.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
 Ruby                     269 repos           ███████████████░░░░░░░░░░   59.25 % 
+JavaScript               87 repos            █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
 HTML                     40 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 TypeScript               11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Go                       5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Lua                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
@@ -125,7 +125,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:53:38 UTC
+ Last Updated on 30/09/2026 22:48:42 UTC
 <!--END_SECTION:waka-->
 
 ---
