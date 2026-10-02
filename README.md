@@ -15,9 +15,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C853%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C865%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C600%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C611%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -25,7 +25,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,421 Contributions in the Year 2026
+> 🏆 3,555 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,81 +33,6 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                663 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌆 Daytime                4423 commits        █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌃 Evening                4374 commits        █████████░░░░░░░░░░░░░░░░   37.18 % 
-🌙 Night                  2305 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   883 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Tuesday                  2257 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Wednesday                2042 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 1300 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Friday                   1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Saturday                 2006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Sunday                   1418 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-Markdown                 47 hrs              ██████████████░░░░░░░░░░░   54.41 % 
-Diff                     13 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Python                   9 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-TypeScript               5 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JavaScript               4 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-🔥 Editors: 
-Neovim                   34 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.84 % 
-Codex CLI                22 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-VS Code                  15 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Claude Code              13 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-
-🐱‍💻 Projects: 
-olympus                  70 hrs 19 mins      ████████████████████░░░░░   81.39 % 
-Unknown Project          1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-gold                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-repo                     1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-edit                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-
-💻 Operating System: 
-Mac                      86 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 83 hrs 45 mins (96.93%)
-
-✍️ 26,254 lines written by AI, 13,833 lines written by hand (65.49% AI-written)
-
-🔤 108,805,774 Input Tokens, 13,521,379 Output Tokens
-
-💵 $4656.51 Estimated AI Cost This Week
-
-🧠 271 AI Sessions, 3511 AI Prompts
-
-GPT                      27,322 lines        ████████████████████████░   96.01 % 
-Fable                    585 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Opus                     551 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.49% of written lines came from AI
-📚 Verbose Prompter — average 27,290 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 41.66% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -125,7 +50,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 23:13:23 UTC
+ Last Updated on 02/10/2026 22:47:49 UTC
 <!--END_SECTION:waka-->
 
 ---
