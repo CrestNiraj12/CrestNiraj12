@@ -15,11 +15,11 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 [![Spotify](https://novatorem-taupe.vercel.app/api/spotify-playing)](https://open.spotify.com/user/fqlyu32nkxn6un2530iy3qry3)) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C893%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C895%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C639%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C641%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,52 +60,52 @@ Sunday                   1504 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 44 hrs 36 mins      ███████████████░░░░░░░░░░   60.94 % 
-Python                   9 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Diff                     7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JavaScript               3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Bash                     2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 35 hrs 45 mins      ███████████████░░░░░░░░░░   60.40 % 
+Python                   7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Diff                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Bash                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JavaScript               2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-Neovim                   37 hrs 20 mins      █████████████░░░░░░░░░░░░   51.02 % 
-VS Code                  27 hrs 1 min        █████████░░░░░░░░░░░░░░░░   36.92 % 
-Codex CLI                5 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Claude Code              3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Neovim                   31 hrs 38 mins      █████████████░░░░░░░░░░░░   53.44 % 
+VS Code                  23 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
+Codex CLI                2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Claude Code              1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-olympus                  64 hrs 54 mins      ██████████████████████░░░   88.68 % 
-editor                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Unknown Project          53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-repo                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-gold                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+olympus                  54 hrs 16 mins      ███████████████████████░░   91.68 % 
+editor                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Unknown Project          47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+gold                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+amm-scope-v2-gold        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Mac                      73 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      59 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 36 mins (96.45%)
+⏱ AI Coding Time: 56 hrs 47 mins (95.91%)
 
-✍️ 21,582 lines written by AI, 18,387 lines written by hand (54.0% AI-written)
+✍️ 15,970 lines written by AI, 14,987 lines written by hand (51.59% AI-written)
 
-🔤 93,075,569 Input Tokens, 12,025,041 Output Tokens
+🔤 75,772,652 Input Tokens, 9,592,304 Output Tokens
 
-💵 $1319.13 Estimated AI Cost This Week
+💵 $1053.75 Estimated AI Cost This Week
 
-🧠 287 AI Sessions, 4192 AI Prompts
+🧠 247 AI Sessions, 3467 AI Prompts
 
-GPT                      22,085 lines        █████████████████████████   99.74 % 
-Fable                    58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      16,361 lines        █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.0% of written lines came from AI
-📚 Verbose Prompter — average 15,438 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 52.5% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.59% of written lines came from AI
+📚 Verbose Prompter — average 15,166 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 53.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -125,7 +125,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:35:46 UTC
+ Last Updated on 06/10/2026 23:04:19 UTC
 <!--END_SECTION:waka-->
 
 ---
