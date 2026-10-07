@@ -25,7 +25,7 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,674 Contributions in the Year 2026
+> 🏆 3,675 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,9 +36,9 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                693 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+🌞 Morning                692 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 🌆 Daytime                4558 commits        █████████░░░░░░░░░░░░░░░░   37.78 % 
-🌃 Evening                4450 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌃 Evening                4451 commits        █████████░░░░░░░░░░░░░░░░   36.89 % 
 🌙 Night                  2364 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -46,11 +46,11 @@ I am a Software Engineer, and a learner. I am always learning new things, ready 
 ```text
 Monday                   905 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 Tuesday                  2257 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Wednesday                2042 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Wednesday                2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 Thursday                 1300 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Friday                   1978 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 Saturday                 2079 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Sunday                   1504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   1503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 ```
 
 
@@ -60,52 +60,52 @@ Sunday                   1504 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 35 hrs 45 mins      ███████████████░░░░░░░░░░   60.40 % 
-Python                   7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Diff                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Bash                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-JavaScript               2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Markdown                 24 hrs 33 mins      ██████████████░░░░░░░░░░░   56.34 % 
+Python                   5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Diff                     5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Bash                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Go                       1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Neovim                   31 hrs 38 mins      █████████████░░░░░░░░░░░░   53.44 % 
-VS Code                  23 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
-Codex CLI                2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Claude Code              1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Neovim                   24 hrs 10 mins      ██████████████░░░░░░░░░░░   55.46 % 
+VS Code                  17 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.10 % 
+Codex CLI                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Claude Code              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-olympus                  54 hrs 16 mins      ███████████████████████░░   91.68 % 
-editor                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Unknown Project          47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-gold                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-amm-scope-v2-gold        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+olympus                  40 hrs 27 mins      ███████████████████████░░   92.85 % 
+editor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+gold                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+pulsar-advisory-13-tree  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+cooperative              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      59 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 47 mins (95.91%)
+⏱ AI Coding Time: 41 hrs 35 mins (95.44%)
 
-✍️ 15,970 lines written by AI, 14,987 lines written by hand (51.59% AI-written)
+✍️ 11,376 lines written by AI, 13,871 lines written by hand (45.06% AI-written)
 
-🔤 75,772,652 Input Tokens, 9,592,304 Output Tokens
+🔤 52,409,438 Input Tokens, 6,514,784 Output Tokens
 
-💵 $1053.75 Estimated AI Cost This Week
+💵 $776.19 Estimated AI Cost This Week
 
-🧠 247 AI Sessions, 3467 AI Prompts
+🧠 184 AI Sessions, 2744 AI Prompts
 
-GPT                      16,361 lines        █████████████████████████   100.00 % 
+GPT                      11,593 lines        █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.59% of written lines came from AI
-📚 Verbose Prompter — average 15,166 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 53.96% of changed lines were hand-edited
+⚖️ Balanced with AI — 45.06% of written lines came from AI
+📚 Verbose Prompter — average 14,072 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🔍 Hands-On Reviewer — 60.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -125,7 +125,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 23:04:19 UTC
+ Last Updated on 07/10/2026 23:35:09 UTC
 <!--END_SECTION:waka-->
 
 ---
