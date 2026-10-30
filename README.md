@@ -60,48 +60,48 @@ Sunday                   1636 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kathmandu
 
 💬 Programming Languages: 
-Markdown                 2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Diff                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-Python                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Diff                     2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Python                   1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.62 % 
-Neovim                   2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Claude Code              2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+VS Code                  3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
+Neovim                   2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Claude Code              2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 
 🐱‍💻 Projects: 
-olympus                  9 hrs 11 mins       ████████████████████████░   95.80 % 
-gmqtt-public-contract-har16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-cur                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-gm                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+olympus                  7 hrs 37 mins       ████████████████████████░   94.99 % 
+gmqtt-public-contract-har16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+cur                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+gm                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      9 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 18 mins (96.92%)
+⏱ AI Coding Time: 7 hrs 56 mins (98.93%)
 
-✍️ 1,841 lines written by AI, 813 lines written by hand (69.37% AI-written)
+✍️ 1,841 lines written by AI, 781 lines written by hand (70.21% AI-written)
 
-🔤 7,178,372 Input Tokens, 923,524 Output Tokens
+🔤 6,453,029 Input Tokens, 862,670 Output Tokens
 
-💵 $242.42 Estimated AI Cost This Week
+💵 $225.48 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 242 AI Prompts
+🧠 19 AI Sessions, 203 AI Prompts
 
 GPT                      1,032 lines         ██████████████░░░░░░░░░░░   56.06 % 
 Opus                     809 lines           ███████████░░░░░░░░░░░░░░   43.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.37% of written lines came from AI
-📚 Verbose Prompter — average 17,475 characters per prompt
+🤖 AI-Driven — 70.21% of written lines came from AI
+📚 Verbose Prompter — average 19,165 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 47.29% of changed lines were hand-edited
+🚀 High AI Trust — 42.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CrestNiraj12/CrestNiraj12/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 23:14:43 UTC
+ Last Updated on 30/10/2026 22:54:11 UTC
 <!--END_SECTION:waka-->
 
 ---
